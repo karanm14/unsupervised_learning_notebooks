@@ -1,0 +1,17 @@
+We will use two datasets for this demo. 
+
+First is the network of charecters from Game of Thrones book/tv show. This is made publically available and I found it at:
+
+https://www.lyonwj.com/2016/06/26/graph-of-thrones-neo4j-social-network-analysis/
+
+
+Second we will use the network of Marvel comic book charecters found on KAggle:
+https://www.kaggle.com/csanhueza/the-marvel-universe-social-network
+
+and can be traced to :
+
+https://tbgraph.wordpress.com/category/marvel/
+
+The code is split into two files:
+1. got.ipynb :  Game of thrones example
+2. marvel.ipynb : MArvel comic charecters example
